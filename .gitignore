@@ -1,0 +1,15 @@
+# Dependencies & Deployment Cache
+.vercel
+node_modules
+__pycache__
+*.pyc
+.env
+
+# Dokumen Naskah & File Mentah (Tidak perlu di-web)
+*.docx
+*.pdf
+*.qgz
+svg_map_snippet.html
+dashboard_geotb_sultra.html
+Gambar_1_GeoTB.png
+Gambar_1_Peta_TB_Sultra_24.png

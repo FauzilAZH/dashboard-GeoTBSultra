@@ -1,0 +1,20 @@
+{
+  "name": "geotb-sultra-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard Spasial Interaktif Prioritisasi Active Case Finding (ACF) Tuberkulosis Sulawesi Tenggara 2024",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "tuberculosis",
+    "gis",
+    "spatial",
+    "dashboard",
+    "sulawesi-tenggara",
+    "geotb"
+  ],
+  "author": "Tim Peneliti LKTI Kasuami",
+  "license": "MIT"
+}
